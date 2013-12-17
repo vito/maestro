@@ -21,7 +21,7 @@ var _ = Describe("Coordinator", func() {
 		It("removes it from the pool", func() {
 		})
 
-		It("evacuates any apps it had on that service", func() {
+		It("starts any apps it had on that service", func() {
 		})
 	})
 
